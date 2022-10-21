@@ -30,7 +30,7 @@
 
 
 ### Projects
-1. https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering
+1. https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb
 
 
 
