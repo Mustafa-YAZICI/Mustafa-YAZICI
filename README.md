@@ -55,11 +55,11 @@
 
 #### Supervised Learning
 
->House Price Prediction, EDA, ML, Visualization 
+>>House Price Prediction, EDA, ML, Visualization 
 
->Telco Churn Prediction
+>>Telco Churn Prediction
 
->Scouting Project
+>>Scouting Project
 
 >Salary Prediction
 
