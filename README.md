@@ -34,7 +34,65 @@
 
 >![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
 
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
 
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+
+
+#### Supervised Learning
+<!-- House Price Prediction, EDA, ML, Visualization 
+Telco Churn Prediction
+Scouting Project
+Salary Prediction -->
+
+Unsupervised Learning
+FLO - Customer Segmentation using K-Means
+FLO - Customer Segmentation using Hierarchical Clustering
+
+Feature Engineering 
+Diabetes Feature Engineering
+Telco Churn Feature Engineering
+
+Time Series Analysis
+Store Item Demand Forecasting
+Transaction Forecasting for İyzico Customer Portfolio
+
+CRM Analytics 
+Customer Segmentation with RFM Analysis - FLO 
+CLTV Forecasts using BG-NBD and Gamma-Gamma - FLO 
+
+Measurement Problems 
+Comparison of Bidding Methodologies and Transformations using AB Test
+Rating Product & Sorting Reviews in Amazon
+
+Recommendation Systems 
+"NeOkusam’’ Book Recommendation System 📚
+Data Cleaning - Prearation- Feature Engineering
+Data Visualization
+Content Based Recommendation
+User Based Recommendation System
+Matrix Factorization-Model-Based Collaborative Filtering
+Association Rule Learning Recommendation System
+Machine Learning Models | PCA & Clustering
+Hybrid Recommender System
+User Based Recommendation
+Item Based Recommendation
+Weighted Average Recommendation 
+![resim](https://user-images.githubusercontent.com/62354615/197195074-1cb3b135-6029-4971-9cca-90b798a383bd.png)
 
 
 
