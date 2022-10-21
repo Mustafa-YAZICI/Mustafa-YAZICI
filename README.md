@@ -1,3 +1,39 @@
+### Hi there 👋, Mustafa YAZICI
+#### Data Scientist & Figther Pilot & Aeronautical Engineering
+![Data Scientist & Figther Pilot & Aeronautical Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+9 years of work experience, 7 of which was as a fighter pilot. Enthusiastically practicing data science for 3 years. Detected and fixed a software bug that was extremely critical for national security. Honored with 14 certificates of appreciation. Carried out 20+ data science projects. Have the knowledge and experience to start a data science project from scratch and bring it to life.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mustafa-YAZICI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/myzc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mustafayazici)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there, I'm Mustafa. 😊
 
 ## Data Scientist | Figther Pilot | Aeronautical Engineering
@@ -11,6 +47,7 @@ experience to start a data science project from scratch and bring it to life.
 #### Reach me out
 
 ![resim](https://user-images.githubusercontent.com/62354615/197182303-313ffd2b-5f25-4795-ae47-ee4e62d2bfee.png)
+
 ![resim](https://user-images.githubusercontent.com/62354615/197182412-2e68b792-cc4e-4fa7-9ba0-e2dc83a62d16.png)
 
 
