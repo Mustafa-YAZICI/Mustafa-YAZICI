@@ -1,10 +1,11 @@
-### Hi there 👋, Mustafa YAZICI
+### Hi there 👋, I'm Mustafa YAZICI.
+
 #### Data Scientist & Figther Pilot & Aeronautical Engineering
 ![Data Scientist & Figther Pilot & Aeronautical Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 9 years of work experience, 7 of which was as a fighter pilot. Enthusiastically practicing data science for 3 years. Detected and fixed a software bug that was extremely critical for national security. Honored with 14 certificates of appreciation. Carried out 20+ data science projects. Have the knowledge and experience to start a data science project from scratch and bring it to life.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python / SQL / MS SQL / TSQL / Machine Learning / Power BI / Tableau
 
 
 
