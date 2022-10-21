@@ -30,10 +30,8 @@
 
 
 ### Projects
-1. https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb
-2. ![Telco-Churn-Feature-Engineering]([[https://github.com/Mustafa-YAZICI](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)]
-
-3.![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
+>![Telco-Churn-Feature-Engineering](https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.ipynb)
 
 
 
