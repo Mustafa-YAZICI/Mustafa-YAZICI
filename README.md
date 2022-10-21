@@ -14,11 +14,17 @@
 
 TECHNICAL SKILLS 
 **Operating System :** Windows, Linux
+
 **Languages & IDE/Tools :** Python, Anoconda, Pycharm, Jupyter Notebook
+
 **Libraries :** Pandas, Numpy, Scikit-Learn, TensorFlow
+
 **Data Visualization Tools :** Microsoft Power BI, Tableau, Excel, Plotly, Matplotlib, Seaborn, GGplot
+
 **Machine Learning Algorithms :** Linear Regression, Logistic Regression, Decision Trees, SVM, KNN, K-Means, Random Forest, Gradient Boosting Algorithms(GBM, XGBoost, LightGBM, CatBoost)
+
 **Database Management :** SQL, TSQL, MS SQL
+
 **Cloud Computing Platforms :** Microsoft Azure, Google Cloud
 
 
