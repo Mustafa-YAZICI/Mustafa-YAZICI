@@ -54,10 +54,14 @@
 
 
 #### Supervised Learning
-<!-- House Price Prediction, EDA, ML, Visualization 
-Telco Churn Prediction
-Scouting Project
-Salary Prediction -->
+
+>House Price Prediction, EDA, ML, Visualization 
+
+>Telco Churn Prediction
+
+>Scouting Project
+
+>Salary Prediction
 
 Unsupervised Learning
 FLO - Customer Segmentation using K-Means
