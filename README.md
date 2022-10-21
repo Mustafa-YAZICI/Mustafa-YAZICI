@@ -12,7 +12,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mustafa-YAZICI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/myzc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mustafayazici)  
 
 
-TECHNICAL SKILLS 
+### Technical Skills
+
 **Operating System :** Windows, Linux
 
 **Languages & IDE/Tools :** Python, Anoconda, Pycharm, Jupyter Notebook
@@ -26,6 +27,11 @@ TECHNICAL SKILLS
 **Database Management :** SQL, TSQL, MS SQL
 
 **Cloud Computing Platforms :** Microsoft Azure, Google Cloud
+
+
+### Projects
+1. https://github.com/Mustafa-YAZICI/Telco-Churn-Feature-Engineering
+
 
 
 
